@@ -105,7 +105,7 @@ rst_epilog = """
 
 .. |link_sf_facebook| raw:: html
 
-    <a href="https://bit.ly/4dMB4WM" target="_blank">here</a>
+    <a href="https://bit.ly/raphaelkit" target="_blank">here</a>
 
 .. |link_german_tutorials| raw:: html
 
