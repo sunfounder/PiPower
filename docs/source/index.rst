@@ -12,10 +12,12 @@
 
     👉 Ready to explore and create with us? Click [|link_sf_facebook|] and join today!
 
-PiPower - Raspberry Pi UPS with Battery
-=============================================
+|link_PiPower| - Raspberry Pi UPS with Battery
+==================================================
 
-Thanks for choosing our PiPower.
+* |link_Pi_Power|
+
+Thanks for choosing our |link_PiPower|.
 
 .. note::
     This document is available in the following languages.
