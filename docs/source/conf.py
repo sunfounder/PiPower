@@ -69,7 +69,6 @@ html_css_files = [
 ]
 
 
-
 #html_js_files = [
 #    'https://ezblock.cc/readDocFile/custom.js',
 #   'https://ezblock.cc/readDocFile/readTheDoc/src/js/ace.js',
@@ -100,14 +99,15 @@ gettext_compact = False # Support for generating the contents of the folders ins
 
 
 
+
 # links
 
 rst_epilog = """
 
 .. |link_sf_facebook| raw:: html
 
-    <a href="https://bit.ly/raphaelkit" target="_blank">ここ</a>
-    
+    <a href="https://bit.ly/raphaelkit" target="_blank">hier</a>
+
 .. |link_german_tutorials| raw:: html
 
     <a href="https://docs.sunfounder.com/projects/pipower-v2/de/latest/" target="_blank">Deutsch Online-Kurs</a>
@@ -120,11 +120,16 @@ rst_epilog = """
 
     <a href="https://docs.sunfounder.com/projects/pipower-v2/en/latest/" target="_blank">English Online-tutorials</a>
 
+.. |link_Pi_Power| raw:: html
+
+    <a href="https://www.sunfounder.com/products/power-pack?_pos=1&_sid=b6b504487&_ss=r" target="_blank">PiPowerの購入リンク</a>
+
+.. |link_PiPower| raw:: html
+
+    <a href="https://www.sunfounder.com/products/power-pack?_pos=1&_sid=b6b504487&_ss=r" target="_blank">PiPower</a>
 
 
 """
-
-
 
 
 
