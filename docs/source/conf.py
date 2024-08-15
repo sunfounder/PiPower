@@ -120,6 +120,13 @@ rst_epilog = """
 
     <a href="https://docs.sunfounder.com/projects/pipower-v2/en/latest/" target="_blank">English Online-tutorials</a>
 
+.. |link_Pi_Power| raw:: html
+
+    <a href="https://www.sunfounder.com/products/power-pack?_pos=1&_sid=b6b504487&_ss=r" target="_blank">Kauflink für PiPower</a>
+
+.. |link_PiPower| raw:: html
+
+    <a href="https://www.sunfounder.com/products/power-pack?_pos=1&_sid=b6b504487&_ss=r" target="_blank">PiPower</a>
 
 
 """

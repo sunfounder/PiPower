@@ -12,10 +12,12 @@
 
     👉 Sind Sie bereit, mit uns zu erkunden und zu erschaffen? Klicken Sie auf [|link_sf_facebook|] und treten Sie heute bei!
 
-PiPower - Raspberry Pi USV mit Batterie
+|link_PiPower| - Raspberry Pi USV mit Batterie
 =============================================
 
-Danke, dass Sie sich für unser PiPower entschieden haben.
+* |link_Pi_Power|
+
+Danke, dass Sie sich für unser |link_PiPower| entschieden haben.
 
 .. note::
     Dieses Dokument ist in den folgenden Sprachen verfügbar.
